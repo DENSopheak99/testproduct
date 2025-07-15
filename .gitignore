@@ -1,0 +1,5 @@
+# main.exe
+# PSM.exe
+
+*.exe
+.vscode
